@@ -1,2 +1,29 @@
 # team-collaboration-backend
-Scalable backend for an IT Team Collaboration platform featuring JWT authentication, role-based authorization, file uploads, task management, and secure REST APIs.
+# IT Team Collaboration Backend
+
+## Features
+
+- JWT Authentication
+- Role Based Authorization
+- Team Management
+- Project Management
+- File Upload
+- Search
+- Pagination
+- Validation
+
+## Tech Stack
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT
+- Cloudinary
+- Multer
+
+## Installation
+
+npm install
+
+npm run dev
